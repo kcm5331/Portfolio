@@ -1,4 +1,4 @@
-![]( KM.jpg)
+![]( KM.jpg=250x250)
 Hi, my name is Keaton Moyer and welcome to my portfolio!
 
 # About Me
