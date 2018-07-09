@@ -1,5 +1,9 @@
-![]( KM.jpg) <!-- .element height="50%" width="50%" -->
-Hello, my name is Keaton Moyer and welcome to my portfolio!
+<p align="center">
+<img src="https://github.com/kcm5331/Portfolio/blob/master/KM.jpg?raw=true" width="375"><br>
+<b>Hello, my name is Keaton Moyer and welcome to my portfolio!</b>
+</p>
+
+
 
 # About Me
 
