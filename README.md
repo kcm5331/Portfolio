@@ -1,5 +1,5 @@
-![]( KM.jpg=250x250)
-Hi, my name is Keaton Moyer and welcome to my portfolio!
+![]( KM.jpg) <!-- .element height="50%" width="50%" -->
+Hello, my name is Keaton Moyer and welcome to my portfolio!
 
 # About Me
 
