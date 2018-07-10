@@ -7,7 +7,11 @@
 
 # About Me
 
-I am a recent graduate from The Pennsylvania State University with a Bachelor of Science in mathematics and minor in statistics. I am from Fleetwood, PA. I am an active member in my community volunteering with the Fleetwood Neighborhood Watch and the Fleetwood Days Carnival. I am an avid sports fan and enjoy analyzing soccer and baseball data. I am currently working on several projects, which I will upload as soon as I finish them.
+I am a recent graduate from The Pennsylvania State University with a Bachelor of Science in mathematics and minor in statistics. I am from Fleetwood, PA. I am an active member with several organizations within my community. I am an avid sports fan and enjoy analyzing soccer and baseball data. I am currently working on several projects, which I will upload as soon as I complete them.
+
+# Computer Programming
+
+I am proficient in R, Minitab, and Microsoft Office, and have experience with Python, C++, and SAS.
 
 # Portfolio
 
@@ -17,9 +21,10 @@ I have a passion for taking data and visualizing it. For a class project, I took
 In my spare time, I enjoy Star Wars and discovered Henry M Bernberg’s Star Wars Galaxy Map online. He had datasets available. I decided I wanted to try and replicate it myself using R. This is my final result:
 [Replica of Star Wars Galaxy Map](Galactic_Map.html)
 
-# Computer Programming
+I am currently working on a prediction model for English Premier League using a poisson distribution. The end goal is to predict match results as well as final season standings.
 
-I am proficient in R, Minitab, and Microsoft Office, and have experience with Python, C++, and SAS.
+
+
 
 # Contact Info
 
